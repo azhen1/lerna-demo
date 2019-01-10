@@ -1,6 +1,6 @@
 {
-  "name": "module-1",
-  "version": "0.0.1",
+  "name": "module-2",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "lodash": "4.17.5",
-    "mp-promisify": "0.0.3"
-  },
-  "gitHead": "298ae0e1e93ae5493798bc0c576d3b5d032a22d7"
+      "module-1": "^0.0.1"
+  }
 }
