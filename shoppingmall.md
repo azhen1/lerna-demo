@@ -1,10 +1,10 @@
 shoppingmall项目新手文档
 
 ### 项目搭建
-![vue](https://img.shields.io/badge/vue-v2.5.16-green.svg)
+![vue](https://img.shields.io/badge/vue-v2.5.21-green.svg)
 ![mpvue](https://img.shields.io/badge/mpvue-v1.0.13-brightgreen.svg)
 ![webpack](https://img.shields.io/badge/webpack-v3.11.0-blue.svg)
-![node](https://img.shields.io/badge/node-v6.11.5-green.svg)
+![node](https://img.shields.io/badge/node-v10.12.0-green.svg)
 
 
 ### 项目结构
