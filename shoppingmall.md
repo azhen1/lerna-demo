@@ -2,7 +2,7 @@ shoppingmall项目新手文档
 
 ### 项目搭建
 ![vue](https://img.shields.io/badge/vue-v2.5.21-green.svg)
-![vuex](https://img.shields.io/badge/mpvue-v3.0.1-brightgreen.svg)
+![vuex](https://img.shields.io/badge/vuex-v3.0.1-brightgreen.svg)
 ![webpack](https://img.shields.io/badge/webpack-v3.12.0-blue.svg)
 ![node](https://img.shields.io/badge/node-v10.12.0-green.svg)
 
